@@ -18,7 +18,7 @@
  *  along with this program.  If not, see http://www.gnu.org/licenses/. 
  *  
  *  Version:           1.0
- *  Design:            David Gascón 
+ *  Design:            David GascÃ³n 
  *  Implementation:    Victor Boria & Luis Miguel Marti
  */
  
